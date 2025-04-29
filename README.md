@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm **Jordan Moran**
 
 I'm a **Network Security Engineer** and **cybersecurity student** with a strong foundation in **network infrastructure, firewall management**, and **cloud security**.  
-I recently earned the **CompTIA CySA+** certification and I'm actively expanding my skills toward SOC operations, network defense, and cloud-native threat detection.
 
 ---
 
