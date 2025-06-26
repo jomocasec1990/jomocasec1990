@@ -45,7 +45,7 @@ I'm a **Network Security Engineer** and **cybersecurity student** with a strong 
 
 📘 An open portfolio showcasing practical skills in network defense, SIEM management, cloud security, and ethical hacking.
 
-🛡️ My goal is to document real, practical projects that reflect the skills needed to operate, defend, and monitor complex environments — preparing for professional roles in SOC and Cloud Security.
+🛡️ My goal is to document real, practical projects that reflect the skills needed to operate, defend, and monitor complex environments.
 
 ---
 
@@ -56,5 +56,4 @@ I'm a **Network Security Engineer** and **cybersecurity student** with a strong 
 # 🔥 Quick Facts
 
 - 🖥️ Background: Network Security / Firewall Administration
-- 🎓 Current Goal: Transition into Cloud and SOC Security roles
 - 🧰 Building Labs: Web servers, Firewalls, Azure Labs, SIEM Integration, Ethical Hacking Labs
